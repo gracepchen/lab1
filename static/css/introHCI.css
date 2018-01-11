@@ -34,6 +34,22 @@ body {
 }
 
 .project {
-
+     background-color: gray;
      margin-left: 20px;
+}
+
+.contact-info {
+     font-size: 10pt;
+     color: #ccc;
+}
+
+img .thumbnail {
+     width: 50px;
+     height: 100px;
+     border: 1px solid #434343;
+}
+
+a {
+     font-size: 20pt;
+     color: yellow;
 }
